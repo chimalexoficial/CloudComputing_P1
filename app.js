@@ -91,5 +91,5 @@ images.init(
     }    
 );
 
-app.listen(5000, () => console.log(`Listening on port`));
+app.listen(3000, () => console.log(`Listening on port`));
 module.exports = app;
